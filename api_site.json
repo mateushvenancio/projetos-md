@@ -1,0 +1,29 @@
+{
+    "nome": "Mateus Venâncio",
+    "image": "https://i.imgur.com/Kio9S8G.png",
+    "frase": "The universe is big. It’s vast and complicated and ridiculous. And sometimes, very rarely, impossible things just happen and we call them miracles.",
+    "about_me": "I live in the state of Minas Gerais, Brazil. Graduated in Information Systems, I'm passionated on programming and technology. I made this website to share a little bit of my stuff. It have my social media and a blog. Feel free to contact me. Hope you enjoy!",
+    "projects": [
+        {
+            "title": "RBSO",
+            "link": "#",
+            "descricao": "",
+            "tags": ["Flutter", "Dart"],
+            "links": [
+                {
+                    "label": "Android",
+                    "link": ""
+                }
+            ]
+        }
+    ],
+    "blog_posts": [
+        {
+            "title": "Android e iOS",
+            "date": "2022-05-29",
+            "description": "",
+            "link": "",
+            "tags": ["Android", "iOS"]
+        }
+    ]
+}
