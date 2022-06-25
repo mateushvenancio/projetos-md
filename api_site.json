@@ -19,11 +19,11 @@
     ],
     "blog_posts": [
         {
-            "title": "Android e iOS",
-            "date": "2022-05-29",
-            "description": "Outra descrição mto massa kkkk",
-            "link": "",
-            "tags": ["Android", "iOS"]
+            "title": "A arquitetura dos meus projetos",
+            "date": "2022-06-24",
+            "description": "Um post mostrando a arquitetura que eu uso nos meus projetos. Arquitetura baseada na Clean Arquitecture, que tem funcionado muito bem.",
+            "link": "https://dev.to/mateushvenancio/arquitetura-de-projetos-2o0d",
+            "tags": ["Arquitetura", "Clean Architecture", "Flutter"]
         }
     ]
 }
