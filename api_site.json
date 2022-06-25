@@ -6,8 +6,8 @@
     "projects": [
         {
             "title": "RBSO",
-            "link": "#",
-            "descricao": "Uma descrição muito daora!",
+            "link": "https://github.com/mateushvenancio/projetos-md",
+            "descricao": "Aplicativo da Revista Brasileira de Saúde Ocupacional, feito para o Fundacentro, órgão do Governo Federal.",
             "tags": ["Flutter", "Dart"],
             "links": [
                 {
