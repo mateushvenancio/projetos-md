@@ -1,0 +1,39 @@
+{
+    "games": [
+        {
+            "title": "The Legend of Zelda: Breath of the Wild",
+            "rate": 5,
+            "image": "https://i.imgur.com/Yb2Jotl.png"
+        },
+        {
+            "title": "Red Dead Redemption 2",
+            "rate": 5,
+            "image": "https://i.imgur.com/cEMjkRq.jpg"
+        },
+        {
+            "title": "Stardew Valley",
+            "rate": 5,
+            "image": "https://i.imgur.com/14bKGgL.png"
+        },
+        {
+            "title": "Hogwarts Legacy",
+            "rate": 4,
+            "image": "https://i.imgur.com/iOschn2.jpg"
+        },
+        {
+            "title": "Sea of Stars",
+            "rate": 4,
+            "image": "https://i.imgur.com/X0Svm9O.jpg"
+        },
+        {
+            "title": "Pokémon Scarlet",
+            "rate": 4,
+            "image": "https://i.imgur.com/FCezjN4.jpg"
+        },
+        {
+            "title": "The Elder Scrolls V: Skyrim",
+            "rate": 5,
+            "image": "https://i.imgur.com/Sr4rCyg.jpg"
+        }
+    ]
+}
